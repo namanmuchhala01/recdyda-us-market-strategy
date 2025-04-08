@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project outlines a strategic market entry plan for RECYDA, a German SaaS startup focused on sustainable solutions, into the United States market. The strategy was developed as a winning submission for a hackathon at Università di Pavia.
+This project outlines a strategic market entry plan for RECYDA, a German SaaS startup focused on sustainable solutions, into the United States market. The strategy was developed one of winning submission for a hackathon at Università di Pavia.
 
 ## Key Objectives
 
@@ -46,12 +46,3 @@ The following analyses were conducted to inform the market entry strategy:
 
 * [Detailed Market Expansion Strategy Report](https://drive.google.com/file/d/1ibqVY1Y5ZJn6ZK3MSlAtKFzPb_HBP-3d/view?usp=drive_link)
 * [Supporting Presentation Slides](https://drive.google.com/file/d/1B67dxIGqTO9bpWo2O0eRKzpM8EYWUj_o/view?usp=drive_link)
-
-## Author
-
-* Market Strategy Consultant | Hackathon Winner, Università di Pavia
-
-## License
-
-* \[Add License Information Here - e.g., MIT License]
-* 
